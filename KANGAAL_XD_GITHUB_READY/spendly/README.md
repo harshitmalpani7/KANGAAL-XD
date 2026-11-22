@@ -1,4 +1,4 @@
-# KANGAAL XD — Paise Aaye, Kahan Gaye?
+# HISAB RADAR — Paise Aaye, Kahan Gaye?
 
 A React + Vite personal finance tracker with two visual themes:
 

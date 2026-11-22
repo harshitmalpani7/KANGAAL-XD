@@ -1,4 +1,4 @@
-# KANGAAL XD — Firebase account setup
+# HISAB RADAR — Firebase account setup
 
 This project is pre-configured with the Firebase Web App values supplied for project `kangaal-xd` in the local `.env` file. The `.env` file is intentionally excluded from version control/ZIP sharing practices where possible; it contains client-side Firebase configuration, not an admin credential. Never add service-account JSON or SMTP passwords to the frontend.
 

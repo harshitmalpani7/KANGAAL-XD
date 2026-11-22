@@ -414,7 +414,7 @@ input:focus,select:focus,textarea:focus{border-color:var(--accent);box-shadow:0 
 @media(max-width:650px){.transition-character{height:38vh;max-width:48vw;right:-5%;opacity:.25}.world-transition-barbie .transition-character{height:42vh;right:-8%;opacity:.22}.transition-sticker{opacity:.23}.transition-sticker-13,.transition-sticker-14,.transition-sticker-15,.transition-sticker-16,.transition-sticker-17,.transition-sticker-18{display:none}.transition-copy{transform:translateY(-5vh)}}
 @media(prefers-reduced-motion:reduce){.world-transition,.transition-copy,.transition-character,.transition-sticker,.transition-progress i{animation-duration:.01ms!important;animation-iteration-count:1!important}}
 
-/* Kangaal XD contextual finance assistant */
+/* Hisab Radar contextual finance assistant */
 .bot-widget{position:fixed;right:22px;bottom:18px;z-index:25;opacity:1;transform:none;pointer-events:auto}
 .bot-widget .bot-avatar{width:88px;height:108px;border:0;border-radius:18px;background:transparent;overflow:visible;box-shadow:none;position:relative;cursor:pointer;padding:0}
 .bot-widget .bot-character{display:block;width:100%;height:100%;object-fit:contain;filter:drop-shadow(0 8px 16px var(--glow));transition:transform .2s}
